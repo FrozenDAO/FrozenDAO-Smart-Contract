@@ -1,1 +1,2 @@
-# FrozenDAO-Smart-Contract
+# FrozenDAO Contracts
+
